@@ -1,0 +1,6 @@
+com/ofss/sshtest/SshOutput.class
+com/ofss/sshtest/SshUtil.class
+com/ofss/sshtest/ScpUtil.class
+com/ofss/sshtest/ScpInput.class
+com/ofss/sshtest/SshtestApplication.class
+com/ofss/sshtest/SshInput.class
